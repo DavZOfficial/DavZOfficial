@@ -1,4 +1,4 @@
-<img src="banner.png" style="border-radius: 15px"></img>
+![](https://raw.githubusercontent.com/DavZOfficial/DavZOfficial/master/banner.png)
 ### Hello!!!
 
 I make random code and dump it here.
