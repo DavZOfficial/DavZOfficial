@@ -1,4 +1,4 @@
-![Image of Banner](/banner.png)
+<img src="banner.png" style="border-radius: 15px"></img>
 ### Hello!!!
 
 I make random code and dump it here.
